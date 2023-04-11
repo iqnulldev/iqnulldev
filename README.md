@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm iqnull</h1>
 <h3 align="center">I'm software engineering student</h3>
 </p>
+
 - I'm passionate about programming and developing new software solutions. My current focus is on  mobile app development, and I enjoy working with technologies such Flutter. I believe in continuous learning and enjoy taking up new challenges that help me enhance my skills and knowledge. In my free time, I love to explore new technologies and work on personal projects to expand my skill set.
 </p>
 
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3a8542d-2511-413c-9e14-297a13246a85/deulscp-3606cdaf-b418-404e-9ecf-bcb25088d809.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2QzYTg1NDJkLTI1MTEtNDEzYy05ZTE0LTI5N2ExMzI0NmE4NVwvZGV1bHNjcC0zNjA2Y2RhZi1iNDE4LTQwNGUtOWVjZi1iY2IyNTA4OGQ4MDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Ubr5hd33McPNmGGdhW09X75mJuUgFBLCz-gV2r0s4Mo" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iqnull_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqnull_dev" height="30" width="40" /></a>
@@ -14,4 +14,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+<p align="center"><img src="https://i.redd.it/o0twtreqaw8a1.gif" /></p>
