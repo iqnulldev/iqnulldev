@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm iqnull</h1>
-<h3 align="center">I'm software engineering student. I'm passionate about programming and developing new software solutions. My current focus is on  mobile app development, and I enjoy working with technologies such Flutter. I believe in continuous learning and enjoy taking up new challenges that help me enhance my skills and knowledge. In my free time, I love to explore new technologies and work on personal projects to expand my skill set. </h3>
-
-- 📫 How to reach me **iqnull.dev@gmail.com**
-
+<h3 align="center">I'm software engineering student</h3>
+</p>
+- I'm passionate about programming and developing new software solutions. My current focus is on  mobile app development, and I enjoy working with technologies such Flutter. I believe in continuous learning and enjoy taking up new challenges that help me enhance my skills and knowledge. In my free time, I love to explore new technologies and work on personal projects to expand my skill set.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iqnull_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iqnull_dev" height="30" width="40" /></a>
 <a href="https://instagram.com/iqnull.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqnull.dev" height="30" width="40" /></a>
+<a href="https://t.me/iqnull" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="iqnull.dev" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
