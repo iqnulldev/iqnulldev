@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iqnull</h1>
-<h3 align="center">I'm software engineering student</h3>
+<h3 align="center">I'm software engineering student. I'm passionate about programming and developing new software solutions. My current focus is on  mobile app development, and I enjoy working with technologies such Flutter. I believe in continuous learning and enjoy taking up new challenges that help me enhance my skills and knowledge. In my free time, I love to explore new technologies and work on personal projects to expand my skill set. </h3>
 
 - 📫 How to reach me **iqnull.dev@gmail.com**
 
