@@ -22,6 +22,10 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> </p>
+</a>
+<a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/512px-Firebase_Logo.svg.png?20200221081546" alt="firebase" width="142" height="40"/> 
+</a>
+</p>
+
 
 <p align="center"><img src="https://i.redd.it/o0twtreqaw8a1.gif" /></p>
