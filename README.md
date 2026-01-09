@@ -40,15 +40,6 @@ I enjoy continuous learning, exploring new technologies, and building personal p
          height="40"/>
   </a>
 
-  <!-- Flutter Bloc -->
-  <a href="https://pub.dev/packages/flutter_bloc" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-         alt="flutter_bloc"
-         width="40"
-         height="40"/>
-  </a>
-
-
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
